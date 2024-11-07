@@ -1,4 +1,4 @@
-# All-Resources
+# All Resources
 
 People to follow and lookup:
 - Casey Muratori
@@ -24,8 +24,9 @@ Performance aware programming series:
 
 Important Casey Muratori videos:
 - https://www.youtube.com/watch?v=5IUj1EZwpJY
-- https://www.youtube.com/watch?v=tD5NrevFtbU
 - https://www.youtube.com/watch?v=x2EOOJg8FkA
+- https://www.youtube.com/watch?v=pgoetgxecw8
+- https://www.youtube.com/watch?v=tD5NrevFtbU
 
 Extra videos:
 - https://www.youtube.com/watch?v=WcAWZGyB32U
