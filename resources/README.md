@@ -19,6 +19,9 @@ Memory management lies and mindset difference:
 - https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/
 - https://www.gingerbill.org/series/memory-allocation-strategies/
 
+A really great codebase to look through (by Ryan Fleury):
+- https://github.com/EpicGamesExt/raddebugger
+
 Performance aware programming series:
 - https://www.computerenhance.com/p/table-of-contents
 
@@ -30,9 +33,6 @@ Important Casey Muratori videos:
 
 Extra videos:
 - https://www.youtube.com/watch?v=WcAWZGyB32U
-
-A really great codebase to look through:
-- https://github.com/EpicGamesExt/raddebugger
 
 Handemade Hero (legendary streams):
 - https://guide.handmadehero.org/intro-to-c/
