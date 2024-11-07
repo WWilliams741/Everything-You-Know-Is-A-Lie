@@ -29,12 +29,14 @@ Important Casey Muratori videos:
 - https://www.youtube.com/watch?v=5IUj1EZwpJY
 - https://www.youtube.com/watch?v=x2EOOJg8FkA
 - https://www.youtube.com/watch?v=pgoetgxecw8
+- https://www.youtube.com/watch?v=kZRE7HIO3vk
 - https://www.youtube.com/watch?v=tD5NrevFtbU
 
 Extra videos:
 - https://www.youtube.com/watch?v=WcAWZGyB32U
+- https://www.youtube.com/watch?v=Lzc3HcIgXis
 
-Handemade Hero (legendary streams):
+Handmade Hero (legendary streams):
 - https://guide.handmadehero.org/intro-to-c/
 - https://guide.handmadehero.org/code/
 
