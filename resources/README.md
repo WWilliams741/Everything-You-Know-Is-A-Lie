@@ -12,7 +12,7 @@ Data Oriented Design (DOD):
 - https://www.youtube.com/watch?v=rX0ItVEVjHc
 
 Memory management lies and mindset difference:
-- Read "Jonathan_Blow_on_memory_management.txt"
+- https://github.com/WWilliams741/Everything-You-Know-Is-A-Lie/blob/main/resources/Jonathan_Blow_on_memory_management.txt
 - https://www.youtube.com/watch?v=xt1KNDmOYqA
 - https://www.rfleury.com/p/enter-the-arena-talk
 - https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
