@@ -45,3 +45,10 @@ Disassembly viewer:
 
 A useful repo for performance tracing (find bindings for your preferred language):
 - https://github.com/wolfpld/tracy
+
+Languages you should try and learn (you can still use the above principles in any language):
+- C
+- C++  ( NOT "Modern" C++ )
+- Odin ( https://odin-lang.org/ )
+- Zig  ( https://ziglang.org/ )
+- Jai  ( https://github.com/Jai-Community/Jai-Community-Library/wiki - NOT public yet, but keep an eye out on it )
